@@ -1,2 +1,6 @@
-# cpnt201-a2-tasty
- assignment 2- three deployed HTML5 template (2/3)
+# CPNT201-A2
+by: Myka Peligrino
+
+Template from:
+
+https://themewagon.com/themes/free-bootstrap-templates-food-restaurant-cafe-websites-design/
